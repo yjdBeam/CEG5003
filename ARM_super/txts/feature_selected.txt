@@ -1,0 +1,1 @@
+['ct_dst_sport_ltm', 'dtcpb', 'is_ftp_login', 'trans_depth', 'dinpkt', 'dmean', 'dload', 'service', 'swin', 'state', 'dttl', 'ct_dst_ltm', 'tcprtt', 'synack', 'stcpb', 'ct_dst_src_ltm', 'ct_flw_http_mthd', 'sttl', 'ct_state_ttl', 'proto', 'response_body_len', 'spkts', 'is_sm_ips_ports', 'ackdat', 'sjit', 'dpkts', 'djit']
