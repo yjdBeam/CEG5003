@@ -1,0 +1,46 @@
+REFERENCES
+[1]	Yi, Mon Aye, Phyu, and Thandar, “Layering Based Network Intrusion Detection System to Enhance Network Attacks Detection,” International Journal of Science and Research (IJSR), vol. 2, no. 9, pp. 104–108, Sep. 2013.
+[2]	MIT, “MIT Lincoln Laboratory,” Oct. 1999. https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset (accessed Feb. 07, 2023).
+[3]	S. Hettich and S. D. Bay, “UCI Knowledge Discovery in Databases,” The UCI KDD Archive, 1999. http://kdd.ics.uci.edu/ (accessed Feb. 07, 2023).
+[4]	Venturillo Je, “HackerEarth DEFCON,” 2020. https://www.kaggle.com/datasets/seraphwedd18/hackerearth-defcon (accessed Mar. 29, 2023).
+[5]	Kyoto University, “Traffic Data from Kyoto University’s Honeypots,” 2006. http://www.takakura.com/Kyoto_data/ (accessed Jan. 10, 2023).
+[6]	Moustafa Nour et al., “The UNSW-NB15 Dataset,” 2015. https://research.unsw.edu.au/projects/unsw-nb15-dataset (accessed Jan. 10, 2023).
+[7]	UVE, “ISOT Lab Datasets,” 2010. https://www.uvic.ca/ecs/ece/isot/datasets/index.php (accessed Feb. 07, 2023).
+[8]	Adrthegamedev, “Heritrix archival crawler project,” 2010. https://github.com/internetarchive/heritrix3/wiki (accessed Jan. 10, 2023).
+[9]	Kenjiro Cho, “MAWI Working Group Traffic Archive- WIDE Project,” 2011. https://mawi.wide.ad.jp/mawi/ (accessed Feb. 07, 2023).
+[10]	UNBF, “Canadian Institute for Cybersecurity,” 2012, Accessed: Mar. 29, 2023. [Online]. Available: https://www.unb.ca/cic/about/index.html
+[11]	Goldberger et al., “PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals,” Circulation [Online], vol. 101, no. 23, pp. e215–e220, 2000.
+[12]	Creech, Gideon, Hu Jiankun, and Brown Lawrie, “Developing a high-accuracy cross platform Host-Based Intrusion Detection System capable of reliably detecting zero-day attacks,” UNSW Canberra, Sydney, 2014.
+[13]	Ivan Homoliak, “Advanced Security Network Metrics & CDX 2009 dataset,” 2013. http://www.fit.vutbr.cz/~ihomoliak/asnm/ASNM-CDX-2009.html (accessed Feb. 07, 2023).
+[14]	University of Twente (UT), “University of Twente Research Information,” 2014. https://research.utwente.nl/en/organisations/ut/datasets/ (accessed Feb. 07, 2023).
+[15]	Yungshenglu, “USTC-TFC2016,” 2016. https://www.kaggle.com/datasets/randasrour/ustctfc2016 (accessed Feb. 07, 2023).
+[16]	Clayton Miller, “LBNL Automated Fault Detection for Buildings Data,” kaggle, 2014. https://www.kaggle.com/datasets/claytonmiller/lbnl-automated-fault-detection-for-buildings-data (accessed Feb. 07, 2023).
+[17]	University of California, “Center for Applied Internet Data Analysis,” University of California’s San Diego Supercomputer Center, 2017. https://www.caida.org/catalog/datasets/completed-datasets/ (accessed Feb. 07, 2023).
+[18]	UMA, “University Analytics and Institutional Research,” 2018. https://www.umass.edu/uair/data/common-data-set (accessed Feb. 07, 2023).
+[19]	I. ;Chiola, G. A. M. M. M. C. E. Vaccari, “MQTTset, a New Dataset for Machine Learning Techniques on MQTT. Sensors 2020, 20, 6578,” 2020. https://www.kaggle.com/datasets/cnrieiit/mqttset (accessed Jan. 10, 2023).
+[20]	Abdul Raoof Wani, Q.P. Rana, U. Saxena, and Nitin Pandey, “Analysis and Detection of DDoS Attacks on Cloud Computing Environment using Machine Learning Techniques,” in 2019 Amity International Conference on Artificial Intelligence (AICAI), IEEE, 2019, pp. 870–875.
+[21]	M. Zekri, S. El Kafhali, N. Aboutabit, and Y. Saadi, “DDoS Attack Detection using Machine Learning Techniques in Cloud Computing Environments,” 2017.
+[22]	S. Chakrabarti et al., 2019 IEEE 10th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON) : 10th-12th October, 2019, Columbia University, New York, USA. 2019.
+[23]	R. Priyadarshini and R. K. Barik, “A deep learning based intelligent framework to mitigate DDoS attack in fog environment,” Journal of King Saud University - Computer and Information Sciences, vol. 34, no. 3, pp. 825–831, Mar. 2022.
+[24]	S. Daneshgadeh C, T. Kemmerich, T. Ahmed, and N. Baykal, “Online DDoS attack detection using Mahalanobis distance and Kernel-based learning algorithm,” Journal of Network and Computer Applications, vol. 168, Oct. 2020.
+[25]	U. Urooj, B. A. S. Al-Rimy, A. Zainal, F. A. Ghaleb, and M. A. Rassam, “Ransomware Detection Using the Dynamic Analysis and Machine Learning: A Survey and Research Directions,” Applied Sciences (Switzerland), vol. 12, no. 1, Jan. 2022.
+[26]	B. Jia, X. Huang, R. Liu, and Y. Ma, “A DDoS Attack Detection Method Based on Hybrid Heterogeneous Multiclassifier Ensemble Learning,” Journal of Electrical and Computer Engineering, vol. 2017, Jan. 2017.
+[27]	N. F. Syed, Z. Baig, A. Ibrahim, and C. Valli, “Denial of service attack detection through machine learning for the IoT,” Journal of Information and Telecommunication, vol. 4, no. 4, pp. 482–503, 2020.
+[28]	Y. Gu, K. Li, Z. Guo, and Y. Wang, “Semi-supervised k-means ddos detection method using hybrid feature selection algorithm,” IEEE Access, vol. 7, pp. 64351–64365, 2019.
+[29]	F. S. De Lima Filho, F. A. F. Silveira, A. De Medeiros Brito Junior, G. Vargas-Solar, and L. F. Silveira, “Smart Detection: An Online Approach for DoS/DDoS Attack Detection Using Machine Learning,” Security and Communication Networks, vol. 2019, 2019.
+[30]	S. Das, A. M. Mahfouz, D. Venugopal, and S. Shiva, “DDoS Intrusion Detection Through Machine Learning Ensemble,” in Proceedings - Companion of the 19th IEEE International Conference on Software Quality, Reliability and Security, QRS-C 2019, Institute of Electrical and Electronics Engineers Inc., Jul. 2019, pp. 471–477.
+[31]	Y. Peng, M. He, and Y. Wang, “A Federated Semi-Supervised Learning Approach for Network Traffic Classification,” 2021.
+[32]	Mahbod Tavallaee, Ebrahim Bagher, Wei Lu, and Ali A. Ghorbani, “A Detailed Analysis of the KDD CUP 99 Data Set,” in Proceedings of the 2009 IEEE Symposium on Computational Intelligence in Security and Defense Applications (CISDA 2009) , IEEE, 2009.
+[33]	Z. He, T. Zhang, and R. B. Lee, “Machine Learning Based DDoS Attack Detection from Source Side in Cloud,” in Proceedings - 4th IEEE International Conference on Cyber Security and Cloud Computing, CSCloud 2017 and 3rd IEEE International Conference of Scalable and Smart Cloud, SSC 2017, Institute of Electrical and Electronics Engineers Inc., Jul. 2017, pp. 114–120.
+[34]	K. B. Virupakshar, M. Asundi, K. Channal, P. Shettar, S. Patil, and D. G. Narayan, “Distributed Denial of Service (DDoS) Attacks Detection System for OpenStack-based Private Cloud,” in Procedia Computer Science, Elsevier B.V., 2020, pp. 2297–2307.
+[35]	G. S. Kushwah and V. Ranga, “Distributed denial of service attack detection in cloud computing using hybrid extreme learning machine,” Turkish Journal of Electrical Engineering and Computer Sciences, vol. 29, no. 4, pp. 1852–1870, 2021.
+[36]	R. Santos, D. Souza, W. Santo, A. Ribeiro, and E. Moreno, “Machine learning algorithms to detect DDoS attacks in SDN,” in Concurrency and Computation: Practice and Experience, John Wiley and Sons Ltd, Aug. 2020.
+[37]	N. Ravi and S. M. Shalinie, “Learning-Driven Detection and Mitigation of DDoS Attack in IoT via SDN-Cloud Architecture,” IEEE Internet Things J, vol. 7, no. 4, pp. 3559–3570, Apr. 2020.
+[38]	V. Gaur and R. Kumar, “Analysis of Machine Learning Classifiers for Early Detection of DDoS Attacks on IoT Devices,” Arab J Sci Eng, vol. 47, no. 2, pp. 1353–1374, Feb. 2022.
+[39]	A. Churcher et al., “An experimental analysis of attack classification using machine learning in IoT networks,” Sensors (Switzerland), vol. 21, no. 2, pp. 1–32, Jan. 2021.
+[40]	U. Islam et al., “Detection of Distributed Denial of Service (DDoS) Attacks in IOT Based Monitoring System of Banking Sector Using Machine Learning Models,” Sustainability (Switzerland), vol. 14, no. 14, Jul. 2022.
+[41]	J. G. Almaraz-Rivera, J. A. Perez-Diaz, and J. A. Cantoral-Ceballos, “Transport and Application Layer DDoS Attacks Detection to IoT Devices by Using Machine Learning and Deep Learning Models,” Sensors, vol. 22, no. 9, May 2022.
+[42]	J. A. Perez-Diaz, I. A. Valdovinos, K. K. R. Choo, and D. Zhu, “A Flexible SDN-Based Architecture for Identifying and Mitigating Low-Rate DDoS Attacks Using Machine Learning,” IEEE Access, vol. 8, pp. 155859–155872, 2020.
+[43]	A. Banitalebi Dehkordi, M. R. Soltanaghaei, and F. Z. Boroujeni, “The DDoS attacks detection through machine learning and statistical methods in SDN,” Journal of Supercomputing, vol. 77, no. 3, pp. 2383–2415, Mar. 2021.
+[44]	Ö. Tonkal, H. Polat, E. Başaran, Z. Cömert, and R. Kocaoğlu, “Machine learning approach equipped with neighbourhood component analysis for ddos attack detection in software-defined networking,” Electronics (Switzerland), vol. 10, no. 11, Jun. 2021.
+[45]	M. S. El Sayed, N. A. Le-Khac, M. A. Azer, and A. D. Jurcut, “A Flow Based Anomaly Detection Approach with Feature Selection Method Against DDoS Attacks in SDNs,” IEEE Trans Cogn Commun Netw, Dec. 2022.
