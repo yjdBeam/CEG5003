@@ -1,0 +1,1 @@
+['spkts', 'sbytes', 'rate', 'sttl', 'dttl', 'sload', 'dload', 'sloss', 'sinpkt', 'dinpkt', 'sjit', 'djit', 'swin', 'stcpb', 'dtcpb', 'tcprtt', 'smean', 'dmean', 'response_body_len', 'ct_state_ttl']
