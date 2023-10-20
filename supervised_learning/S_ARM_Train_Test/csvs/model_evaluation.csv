@@ -1,6 +1,6 @@
 Model,F1 Score,AUC,FPR %,FNR %,FAR %
-"Stacking Classifier with (LR,SVM, RF)",0.9315,0.9181,6.01,10.36,8.19
-Ensemble with SVM,0.8822,0.8819,4.06,19.57,11.81
-AdaBoost classifier with Decision Tree,0.9289,0.9166,5.75,10.93,8.34
-Gradient Boosting classifier,0.928,0.9111,7.33,10.45,8.89
-XGBoost classifier (ext of GBoost ),0.9299,0.9125,7.42,10.07,8.75
+"Stacking Classifier with (LR,SVM, RF)",0.8664,0.8157,35.32,1.53,18.43
+Ensemble with SVM,0.837,0.7616,47.61,0.06,23.84
+AdaBoost classifier with Decision Tree,0.8549,0.8171,28.74,7.84,18.29
+Gradient Boosting classifier,0.8621,0.8051,38.64,0.35,19.49
+XGBoost classifier (ext of GBoost ),0.8305,0.7499,50.01,0.01,25.01
