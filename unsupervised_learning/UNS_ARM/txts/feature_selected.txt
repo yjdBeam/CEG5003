@@ -1,1 +1,0 @@
-['ct_ftp_cmd', 'sloss', 'response_body_len', 'is_ftp_login', 'swin', 'dttl', 'is_sm_ips_ports', 'ct_src_dport_ltm', 'ct_flw_http_mthd', 'sttl', 'ct_dst_sport_ltm', 'dtcpb', 'service', 'stcpb', 'ct_dst_src_ltm', 'state', 'proto', 'trans_depth', 'ct_state_ttl', 'tcprtt']

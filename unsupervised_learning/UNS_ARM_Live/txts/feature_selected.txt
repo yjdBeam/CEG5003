@@ -1,0 +1,1 @@
+['is_sm_ips_ports', 'ct_src_dport_ltm', 'ct_dst_sport_ltm', 'trans_depth', 'swin', 'proto', 'ct_state_ttl', 'is_ftp_login', 'response_body_len', 'state', 'tcprtt', 'ct_dst_src_ltm', 'ct_ftp_cmd', 'stcpb', 'service', 'ct_flw_http_mthd', 'sttl', 'dttl', 'sloss', 'dtcpb']

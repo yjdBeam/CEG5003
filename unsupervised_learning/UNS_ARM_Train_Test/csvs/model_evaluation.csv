@@ -1,0 +1,5 @@
+Model,F1 Score,AUC,FPR %,FNR %,FAR %
+Cluster-based Local Outlier Factor (CBLOF),0.4228,0.3082,83.4135,54.9369,69.1752
+Histogram-base Outlier Detection (HBOS),0.5582,0.4354,75.4865,37.4239,56.4552
+Isolation Forest,0.4045,0.3099,79.9162,58.1069,69.0115
+Isolation-based Anomaly Detection Using Nearest-Neighbor Ensembles,0.6246,0.4529,87.1514,22.2757,54.7135
